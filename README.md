@@ -76,7 +76,7 @@ O dataset é pequeno e sintético. Portanto, os resultados são experimentais e 
 
 O modelo treinado está disponível publicamente no Hugging Face:
 
-BugClassifier AI — Hugging Face
+[BugClassifier AI](https://huggingface.co/giovanacaldas/bugclassifier-ai)
 
 Demonstração interativa
 
