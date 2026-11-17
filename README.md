@@ -1,6 +1,10 @@
 # BugClassifier AI
 
-**Projeto de Machine Learning desenvolvido para classificar automaticamente descrições de bugs de software em três categorias: Autenticação, Interface e Pagamento.**
+**Demonstração interativa:** [Testar o BugClassifier AI](https://eeeb99797084623aa3.gradio.live/)
+
+Projeto de Machine Learning para classificação automática de descrições de bugs de software nas categorias Autenticação, Interface e Pagamento.
+
+O projeto utiliza TF-IDF e Regressão Logística para identificar a categoria mais provável de cada descrição.
 
 ---
 
