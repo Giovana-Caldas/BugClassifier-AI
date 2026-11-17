@@ -72,6 +72,18 @@ O dataset é pequeno e sintético. Portanto, os resultados são experimentais e 
 - Melhorar o tratamento de descrições ambíguas.
 - Desenvolver uma interface para utilização do classificador.
 
+## Modelo publicado
+
+O modelo treinado está disponível publicamente no Hugging Face:
+
+BugClassifier AI — Hugging Face
+
+Demonstração interativa
+
+A interface permite inserir descrições de bugs e visualizar a categoria identificada, a probabilidade estimada e a necessidade de análise humana.
+
+- Observação: a demonstração utiliza um link temporário do Gradio, disponibilizado por meio do Google Colab, e depende da sessão permanecer ativa.
+
 ## Autora
 
 **Projeto desenvolvido como parte dos estudos em Machine Learning e Inteligência Artificial.**
